@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f36951bcf320f6241bdb743a972b7e42, type: 3}
+  m_Name: DirtRfr
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 21300000, guid: 923a7b0ff22a82a4584d5df7817a30a8, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 2
+  id: 0
+  particleEffect: {fileID: 2100000, guid: fb70f29934bf28c4581ce5c95117cdb0, type: 2}
+  particleColor: {r: 0.5803922, g: 0.37254903, b: 0.16078432, a: 1}
+  type: 0
+  blockKind: 0
+  hazardType: 0
+  specialProperty: 0
+  breakTime: 0.75
+  description: Placeholder item for Dirt Rule Tile.
+  ruleReference: {fileID: 11400000, guid: b9a32c18fafc27e4785ec8ce9d73e987, type: 2}
+  weaponReference: {fileID: 0}
+  shopPrice:
+    amount: 10
+    price: 5
+    currency: 0

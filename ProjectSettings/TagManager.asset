@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - DroppedItem
+  - Portal
+  - MainTilemap
+  - TouchKillGO
+  - ShadowTilemap
+  - BackgroundTilemap
+  - GeneratorGO
+  - VillagerGO
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Block
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Projectiles
+    uniqueID: 2158626957
+    locked: 0
+  - name: Parallax
+    uniqueID: 1453014341
+    locked: 0
+  - name: BackgroundTilemap
+    uniqueID: 1166536757
+    locked: 0
+  - name: ShadowTilemap
+    uniqueID: 2103698893
+    locked: 0
+  - name: MainTilemap
+    uniqueID: 3181783989
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  - Light Layer 1
+  - Light Layer 2
+  - Light Layer 3
+  - Light Layer 4
+  - Light Layer 5
+  - Light Layer 6
+  - Light Layer 7

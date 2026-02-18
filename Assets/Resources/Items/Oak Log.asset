@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 690183a743498534c9dac5b063faf809, type: 3}
+  m_Name: Oak Log
+  m_EditorClassIdentifier: 
+  m_DefaultSprite: {fileID: 21300000, guid: 806b3b33ff7be36498d7ea0eb290d8dd, type: 3}
+  m_DefaultGameObject: {fileID: 0}
+  m_DefaultColliderType: 1
+  m_TilingRules:
+  - m_Neighbors: 0000000002000000000000000000000000000000000000000200000000000000
+    m_Sprites:
+    - {fileID: 21300000, guid: 806b3b33ff7be36498d7ea0eb290d8dd, type: 3}
+    m_GameObject: {fileID: 0}
+    m_AnimationSpeed: 1
+    m_PerlinScale: 0.5
+    m_RuleTransform: 0
+    m_Output: 0
+    m_ColliderType: 1
+    m_RandomTransform: 0
+  - m_Neighbors: 0000000001000000000000000000000000000000000000000100000000000000
+    m_Sprites:
+    - {fileID: 21300000, guid: c6802d1d32d5dd443b640ae7c0bf25f0, type: 3}
+    m_GameObject: {fileID: 0}
+    m_AnimationSpeed: 1
+    m_PerlinScale: 0.5
+    m_RuleTransform: 0
+    m_Output: 0
+    m_ColliderType: 1
+    m_RandomTransform: 0
+  - m_Neighbors: 0000000001000000000000000000000000000000000000000000000000000000
+    m_Sprites:
+    - {fileID: 21300000, guid: 73f7dc4735bcda446a1f562b5ac37566, type: 3}
+    m_GameObject: {fileID: 0}
+    m_AnimationSpeed: 1
+    m_PerlinScale: 0.5
+    m_RuleTransform: 0
+    m_Output: 0
+    m_ColliderType: 1
+    m_RandomTransform: 0
+  - m_Neighbors: 0000000002000000000000000000000000000000000000000100000000000000
+    m_Sprites:
+    - {fileID: 21300000, guid: 29e326c64eec1cf40826d77819f8d6e6, type: 3}
+    m_GameObject: {fileID: 0}
+    m_AnimationSpeed: 1
+    m_PerlinScale: 0.5
+    m_RuleTransform: 0
+    m_Output: 0
+    m_ColliderType: 1
+    m_RandomTransform: 0
+  reference: {fileID: 11400000, guid: b0e4a95294c95234f8b231fe60d7698c, type: 2}
+  particleEffect: {fileID: 2100000, guid: 3e9dbcd567722de49b713070ae426622, type: 2}
+  particleColor: {r: 0.50980395, g: 0.34901962, b: 0.23137257, a: 1}
+  type: 0
+  description: 
