@@ -1,4 +1,5 @@
 # Frantic Tiles
+Unity project files for my game "Frantic Tiles", with sensitive keys and third-party assets stripped.
 
 Gameplay Video:
 <div align="center">
