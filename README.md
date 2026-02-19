@@ -1,3 +1,8 @@
 # Frantic Tiles
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8qgrk7MODFY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Gameplay Video:
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=8qgrk7MODFY">
+    <img src="https://img.youtube.com/vi/8qgrk7MODFY/0.jpg" alt="Watch the video" style="width:100%; max-width:600px;">
+  </a>
+</div>
